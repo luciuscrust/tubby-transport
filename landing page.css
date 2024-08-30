@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(221, 211, 211);
+}
+#body{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+
+}
+
+.user-type{
+    background-color:rgb(199, 206, 212);
+    height:200px;
+    width:200px;
+    padding:50px;
+    margin:50px;
+    opacity:1;
+    border-radius:50px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+
+a{
+    align-items:center;
+}
+#bus-icon, #car-icon {
+    height:170px;
+    width:170px;
+}
